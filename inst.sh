@@ -6,7 +6,7 @@ cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install w
 clear
 cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/etc/ && pkg install wget -y && wget https://raw.githubusercontent.com/lehaidang2k9/v4/refs/heads/main/t1 && mv t1 motd
 clear
-cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/caotu2k5/v4/raw/main/l1 && chmod +x * && mv l1 login &&
+cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://raw.githubusercontent.com/lehaidang2k9/v4/refs/heads/main/l1 && chmod +x * && mv l1 login &&
 clear
 echo "Đã cài đặt thành công"
 login
